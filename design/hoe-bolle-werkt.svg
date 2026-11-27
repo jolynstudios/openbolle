@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 706" width="720" height="706" role="img" aria-labelledby="title desc" font-family="Figtree, system-ui, sans-serif">
+  <title id="title">What Bolle does</title>
+  <desc id="desc">A phone sends calls, messages and music controls over Bluetooth. On your dashboard, Bolle shows GPS speed and route arrows, sounds alerts and runs accessory profiles. Over Wi-Fi the openBolle server handles voice requests, runs server apps and provides software updates.</desc>
+  <style>
+    .heading{font-size:38px;font-weight:750;letter-spacing:-1px}
+    .name{font-size:32px;font-weight:750;letter-spacing:-.6px}
+    .body{font-size:25px;font-weight:480}
+    .link{font-size:24px;font-weight:650}
+    .ink{fill:#171719}.light{fill:#fffaf5}
+    .icon{fill:none;stroke:currentColor;stroke-width:3.2;stroke-linejoin:round;stroke-linecap:round}
+  </style>
+  <rect width="720" height="706" rx="28" fill="#fffaf5"/>
+  <g fill="#171719"><text x="32" y="60" class="heading">What Bolle does</text></g>
+  <g data-box="phone">
+    <rect x="24" y="90" width="672" height="114" rx="20" fill="#fff" stroke="#ddd7d0" stroke-width="2"/>
+    <g class="icon" color="#171719"><rect x="55" y="111" width="44" height="72" rx="10"/><path d="M70 120h14m-11 54h8"/></g>
+    <text x="128" y="138" class="name ink">Your phone</text>
+    <text x="128" y="178" class="body ink">Calls, messages and music controls</text>
+  </g>
+  <g data-box="bt"><path d="M77 211v46m-7-38 7-8 7 8m-14 30 7 8 7-8" class="icon" color="#9a4116"/><text x="128" y="242" class="link" fill="#89390e">Bluetooth</text></g>
+  <g data-box="device">
+    <rect x="24" y="264" width="672" height="182" rx="20" fill="#171719"/>
+    <circle cx="78" cy="320" r="34" fill="#ff742e"/><g fill="#171719"><rect x="65" y="309" width="7" height="20" rx="3.5"/><rect x="83" y="309" width="7" height="20" rx="3.5"/></g>
+    <text x="128" y="310" class="name light">Bolle on your dashboard</text>
+    <text x="128" y="351" class="body light">Shows GPS speed and route arrows.</text>
+    <text x="128" y="387" class="body light">Sounds alerts through its speaker.</text>
+    <text x="128" y="423" class="body light">Runs accessory apps on the device.</text>
+  </g>
+  <g data-box="wifi"><path d="M77 453v46m-7-38 7-8 7 8m-14 30 7 8 7-8" class="icon" color="#9a4116"/><text x="128" y="484" class="link" fill="#89390e">Wi-Fi</text></g>
+  <g data-box="server">
+    <rect x="24" y="506" width="672" height="174" rx="20" fill="#ffe4d0"/>
+    <g class="icon" color="#171719"><rect x="52" y="536" width="52" height="18" rx="5"/><rect x="52" y="561" width="52" height="18" rx="5"/><path d="M61 545h3m-3 25h3"/></g>
+    <text x="128" y="553" class="name ink">openBolle server</text>
+    <text x="128" y="594" class="body ink">Answers voice requests.</text>
+    <text x="128" y="629" class="body ink">Runs server apps.</text>
+    <text x="128" y="664" class="body ink">Delivers BolleOS updates.</text>
+  </g>
+</svg>
