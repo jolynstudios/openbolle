@@ -1,6 +1,6 @@
 # Dashboard mount: Tesla Model 3 and Model Y
 
-A clip-on mount for Bolle (case v1). It clamps onto the dashboard of the Tesla Model 3 and Model Y. Bolle slides onto the mount's dovetail tongue from the front and clicks into place.
+A clip-on mount for Bolle ([case v1](../../../case/v1/)). It clamps onto the dashboard of the Tesla Model 3 and Model Y. Bolle slides onto the mount's dovetail tongue from the front and clicks into place.
 
 ![mount](mount.png)
 
@@ -36,4 +36,4 @@ The mount files use **0,35**. If a lower number feels better, change `KLIK_OVER`
 
 The tongue was checked against the case v1 model: 0.18 mm clearance on the sides, 0.20 mm on top and at the stop, and 0.10 mm under Bolle. Nothing overlaps.
 
-Design © 2026 openBolle · [openbolle.nl](https://openbolle.nl) · CC BY-SA 4.0 ([licence](../../case/LICENSE))
+Design © 2026 openBolle · [openbolle.nl](https://openbolle.nl) · CC BY-SA 4.0 ([licence](../../../case/v1/LICENSE))

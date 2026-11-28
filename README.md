@@ -13,12 +13,12 @@ Bolle started with a simple idea. Could a round screen give you directions, show
 
 ## Build your own
 
-Start with the [build guide](https://openbolle.nl/docs/bolle). It lists the parts and explains how to put them together. Download the plate for your case from [Releases](https://github.com/jolynstudios/openbolle/releases). Then connect Bolle by USB and open the [installer](https://openbolle.nl/installeren). The site and device menus are in Dutch.
+Start with the [build guide](https://openbolle.nl/docs/bolle). It lists the parts and explains how to put them together. Download the plate for your case from [Releases](https://github.com/jolynstudios/openbolle/releases); [models/case/v1/](models/case/v1/) explains how to print it. Then connect Bolle by USB and open the [installer](https://openbolle.nl/installeren). The site and device menus are in Dutch.
 
-For the car, print a mount from [mounts/](mounts/): there is one for the [Tesla Model 3 and Model Y dashboard](mounts/tesla-model-3-y-dashboard/).
+For the car, print a mount from [models/mounts/](models/mounts/), sorted by car brand. There is one for the [Tesla Model 3 and Model Y dashboard](models/mounts/tesla/model-3-y-dashboard/).
 
 ## Explore the project
 
 The [design folder](design/) holds the artwork. For setup, operation and the software behind Bolle, visit [openbolle.nl](https://openbolle.nl/). To build an app, follow the [development guide](https://openbolle.nl/docs/ontwikkelen/) or open the [English tools and examples](https://github.com/jolynstudios/openbolle-apps).
 
-The case uses CC BY-SA 4.0. BolleOS is distributed as a signed download for use on your own device. Its source is private. Apps and the SDK have their own licences.
+The case and the mounts in [models/](models/) use CC BY-SA 4.0. BolleOS is distributed as a signed download for use on your own device. Its source is private. Apps and the SDK have their own licences.
