@@ -15,6 +15,8 @@ Bolle started with a simple idea. Could a round screen give you directions, show
 
 Start with the [build guide](https://openbolle.nl/docs/bolle). It lists the parts and explains how to put them together. Download the plate for your case from [Releases](https://github.com/jolynstudios/openbolle/releases). Then connect Bolle by USB and open the [installer](https://openbolle.nl/installeren). The site and device menus are in Dutch.
 
+For the car, print a mount from [mounts/](mounts/): there is one for the [Tesla Model 3 and Model Y dashboard](mounts/tesla-model-3-y-dashboard/).
+
 ## Explore the project
 
 The [design folder](design/) holds the artwork. For setup, operation and the software behind Bolle, visit [openbolle.nl](https://openbolle.nl/). To build an app, follow the [development guide](https://openbolle.nl/docs/ontwikkelen/) or open the [English tools and examples](https://github.com/jolynstudios/openbolle-apps).
