@@ -13,7 +13,7 @@ Bolle started with a simple idea. Could a round screen give you directions, show
 
 ## Build your own
 
-Start with the [build guide](https://openbolle.nl/docs/bolle). It lists the parts and explains how to put them together. Download the plate for your case from [Releases](https://github.com/jolynstudios/openbolle/releases); [models/case/v1/](models/case/v1/) explains how to print it. Then connect Bolle by USB and open the [installer](https://openbolle.nl/installeren). The site and device menus are in Dutch.
+Start with the [build guide](https://openbolle.nl/docs/bolle). It lists the parts and explains how to put them together. The case print files and the full parts list, including the screws, are in [models/case/v1/](models/case/v1/), which also explains how to print them. The same files are attached to each [release](https://github.com/jolynstudios/openbolle/releases). Then connect Bolle by USB and open the [installer](https://openbolle.nl/installeren). The site and device menus are in Dutch.
 
 For the car, print a mount from [models/mounts/](models/mounts/), sorted by car brand. There is one for the [Tesla Model 3 and Model Y dashboard](models/mounts/tesla/model-3-y-dashboard/).
 
